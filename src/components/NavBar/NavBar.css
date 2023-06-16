@@ -1,10 +1,15 @@
 ul {
+    list-style-type: none;
     display: flex;
-    flex-direction: row ;
-    justify-content: space-between;
+    justify-content: flex-end;
+    padding: 1rem;
+    background-color: black;
 }
 
-li{
-    margin: 30px;
+.li{
+     text-decoration: none;
+    padding: 0.8rem;
+    font-family: 'Bruno Ace SC', cursive;
+    color: white;
 }
 
