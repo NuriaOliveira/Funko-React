@@ -1,0 +1,166 @@
+{
+    "productos" : [
+        {
+            "id":1, 
+            "categoria":"STAR WARS", 
+            "nombre": "MEGA DATH VADER",
+            "imagen":  "src/assets/1.png",
+            "descripcion":"This is the largest size of Pop! which offers the smallest selection of characters. At a whopping 18 inches tall, Mega Pops! are sure to be the center of your collection. The few but mighty Mega Pops! that are available make powerful and eye-catching display pieces for the most dedicated collectors. Mega Pop! collectibles are usually special edition, exclusive items.",
+            "precio": 100, 
+            "stock": 50
+        },
+        {
+            "id":2, 
+            "categoria":"STAR WARS", 
+            "nombre": "LUKE SKYWALKER", 
+            "imagen":  "src/assets/2.png",
+            "descripcion":"Celebrate the 40th Anniversary of Return of the Jedi™ with the most stellar fandom of all! Pop! Luke Skywalker™ has arrived at Jabba the Hutt’s Palace™ to rescue his friends! Complete your Star Wars™ collection by bringing this Jedi Knight™ into your home. Vinyl bobblehead is approximately 4.4-inches tall.",
+            "precio": 12, 
+            "stock": 50
+        },
+        {
+            "id":3, 
+            "categoria":"STAR WARS", 
+            "nombre": "WICKET", 
+            "imagen":  "src/assets/3.png",
+            "descripcion":"Celebrate the 40th Anniversary of Return of the Jedi™ with the most stellar fandom of all! Pop! Wicket™ is here to welcome you to the forest moon of Endor™! Complete your Star Wars™ collection by bringing this ferociously adorable Ewok™ into your home. Vinyl bobblehead is approximately 3.8-inches tall.",
+            "precio": 12, 
+            "stock": 50
+        },
+        {
+            "id":4, 
+            "categoria":"STAR WARS", 
+            "nombre": "C-3PO", 
+            "imagen":  "src/assets/4.png",
+            "descripcion":"Celebrate the 40th Anniversary of Return of the Jedi™ with the most stellar fandom of all! Pop! C-3PO™ has stunned the Ewoks™ by levitating in his throne on the forest moon of Endor™! Complete your Star Wars™ collection by bringing this protocol droid into your home. Vinyl bobblehead is approximately 4.45-inches tall.",
+            "precio": 12, 
+            "stock": 50
+        },
+        {
+            "id":5, 
+            "categoria":"STAR WARS", 
+            "nombre": "CHEWBACCA - STAR WARS: EPISODE IV A NEW HOPE", 
+            "imagen":  "src/assets/5.png",
+            "descripcion":"Celebrate the most stellar fandom of all with Pop! Chewbacca™. This Wookie warrior, affectionately known as Chewie, has his bowcaster at the ready and can’t wait to be reunited with his friends in your Star Wars™: Episode IV A New Hope collection. Vinyl bobblehead is approximately 4.8-inches tall.",
+            "precio": 15, 
+            "stock": 50
+        },
+        {
+            "id":6, 
+            "categoria":"STAR WARS", 
+            "nombre": "PRINCESS LEIA - STAR WARS: EPISODE IV A NEW HOPE", 
+            "imagen":  "src/assets/6.png",
+            "descripcion":"Celebrate the most stellar fandom of all with Pop! Princess Leia™. This royal rebel has her blaster at the ready and can’t wait to be reunited with her friends in your Star Wars™: Episode IV A New Hope collection. Vinyl bobblehead is approximately 4.25-inches tall.",
+            "precio": 12, 
+            "stock": 50
+        },
+        {
+            "id":7, 
+            "categoria":"STAR WARS", 
+            "nombre": "R2-D2 (FACET)", 
+            "imagen":  "src/assets/7.png",
+            "descripcion":"Commemorate the most stellar fandom of them all by adding this exclusive Pop! R2-D2 to your Star Wars collection! This loyal droid is celebrating Disney’s 100th Anniversary with a faceted new look! Vinyl bobblehead is approximately 3.1-inches tall.",
+            "precio": 15, 
+            "stock": 50
+        },
+        {
+            "id":8, 
+            "categoria": "HARRY POTTER", 
+            "nombre": "HEDWING",
+            "imagen":  "src/assets/8.png", 
+            "descripcion":"Your Hogwarts letter has arrived, courtesy of your very own snowy owl! In addition to being intelligent and loyal, this exclusive Pop! Hedwig with Letter is the perfect pet for any budding wizard or witch. Spread the wingspan of your Wizarding World collection with this lovable messenger. Vinyl figure is approximately 2.95-inches tall. Product will have the 2023 Wondrous Convention sticker on the box.",
+            "precio": 12, 
+            "stock": 50
+        },
+        {
+            "id":9, 
+            "categoria": "HARRY POTTER", 
+            "nombre": "HERMIONE GRANGER", 
+            "imagen":  "src/assets/9.png",
+            "descripcion":"Collect one of the brightest of her age, Pop! Hermione Granger, for your Harry Potter collection. As Ron once said, he and Harry, “wouldn’t last two days without her.” Collectible stands approximately 3.75-inches tall.",
+            "precio": 12, 
+            "stock": 50
+        },
+        {
+            "id":10, 
+            "categoria": "HARRY POTTER", 
+            "nombre": "DOBBY WITH DIARY", 
+            "imagen":  "src/assets/10.png",
+            "descripcion":"He's finally free! Welcome home one of the most well-known and lovable house-elves of the Wizarding World with this Pop! Dobby holding the diary with its hidden sock! Wave a wand and celebrate the 20th anniversary of the Harry Potter and The Chamber of Secrets movie. Cast a spell and create magical adventures by expanding your Wizarding World set. Collect them all. Vinyl figure is approximately 3.53-inches tall.",
+            "precio": 12, 
+            "stock": 50
+        },
+        {
+            "id":11, 
+            "categoria": "HARRY POTTER", 
+            "nombre": "HARRY POTTER", 
+            "imagen":  "src/assets/11.png",
+            "descripcion":"Pop! Harry Potter is dressed in his school robes, ready to discover more about his past and himself, in his first big endeavor away form the Dursley family. Collect Pop! Harry for your Harry Potter collection. Collectible stands approximately 3.75-inches tall.",
+            "precio":12, 
+            "stock": 50
+        },
+        {
+            "id":12, 
+            "categoria": "HARRY POTTER", 
+            "nombre": "SEVERYS SNAPE", 
+            "imagen":  "src/assets/12.png",
+            "descripcion":"Professor Snape has been teaching Potions at Hogwarts School of Witchcraft and Wizardry for years. Everyone knows that he really wants to teach Defense Against the Dark Arts though. Complete your Harry Potter Wizarding World collection with Pop! Severus Snape. Vinyl figure is approximately 4.5-inches tall.",
+            "precio":12, 
+            "stock": 50
+        },
+        {
+            "id":13, 
+            "categoria": "HARRY POTTER", 
+            "nombre": "ALBUS DUMBLEDORE", 
+            "imagen":  "src/assets/13.png",
+            "descripcion":"The students need their Headmaster in order to have their exams canceled before the end of the year. Collect Pop! Albus Dumbledore to share his words of wisdom with the students in your Harry Potter collection. Collectible stands approximately 3.75-inches tall.",
+            "precio":12, 
+            "stock": 50
+        },
+        {
+            "id":14, 
+            "categoria": "HARRY POTTER", 
+            "nombre": "RON WASLEY", 
+            "imagen":  "src/assets/14.png",
+            "descripcion":"Harry Potter would probably be lost in chaos of his new surroundings if Ron hadn't come into the same train car and become friends with him. Bring the best friends together again by putting Pop! Ron Weasley next to Harry in your Harry Potter collection. Collectible stands approximately 3.75-inches tall.",
+            "precio": 12, 
+            "stock": 50
+        },
+        {
+            "id":15, 
+            "categoria": "PIXAR", 
+            "nombre": "JUMBO WALL-E",
+            "imagen":  "src/assets/15.png", 
+            "descripcion":"",
+            "precio": 40, 
+            "stock": 50
+        },
+        {
+            "id":16, 
+            "categoria": "PIXAR", 
+            "nombre": "SOX", 
+            "imagen":  "src/assets/16.png",
+            "descripcion":"Infinite possibilities await with our Pop! Lightyear Sox as he explores worlds beyond. As a personal companion robot, Sox is ready to join Buzz Lightyear on any mission. From lending a helping paw on galactic adventures to making sure Buzz gets a restful night’s sleep, Sox is committed to the success of his Lightyear crew. This cheerful companion is excited to join his friends in your Disney and Pixar collection. Vinyl figure is approximately 3.6-inches tall.",
+            "precio": 12, 
+            "stock": 50
+        },
+        {
+            "id":17, 
+            "categoria": "PIXAR", 
+            "nombre": "BOO", 
+            "imagen":  "src/assets/17.png",
+            "descripcion":"Pop! Boo isn't exactly sure how she got here but she is looking for Sully, aka 'Kitty', in your Monster's Inc. collection. Collectible stands approximately 3.6-inches tall.",
+            "precio": 12, 
+            "stock": 50
+        },
+        {
+            "id":18, 
+            "categoria": "PIXAR", 
+            "nombre": "BUZZ LIGHTYEAR (SPACE RANGER ALPHA)", 
+            "imagen":  "src/assets/18.png",
+            "descripcion":"Blast off to infinite possibilities with Pop! Buzz Lightyear! This Funko-exclusive Pop! Buzz Lightyear is wearing his Space Ranger Alpha Suit and ready for action! Add him to your Disney collection. Vinyl figure is approximately 4.06-inches tall.",
+            "precio": 15, 
+            "stock": 50
+        }
+    ]
+}

@@ -12,4 +12,8 @@ ul {
     font-family: 'Bruno Ace SC', cursive;
     color: white;
 }
+Link{
+    text-decoration: none;
+    color: white;
+}
 
