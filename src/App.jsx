@@ -12,6 +12,7 @@ import ItemListContainer from './components/ItemListContainer/ItemListContainer'
 //pages
 import HomePage from './pages/HomePage/HomePage'
 import CategoryPage from './pages/CategoryPage/CategoryPage'
+import DetailPage from './pages/DetailPage/DetailPage'
 
 class App extends Component {
   render(){
@@ -22,8 +23,8 @@ class App extends Component {
       <Navbar />
       <Routes>
         <Route path='/' element={<HomePage/>} />
-        <Route path='/detail/:id'></Route>
-        <Route path='/category' element={<CategoryPage/>} />
+        <Route path='/detail/:id' element={<DetailPage/>}/>
+        <Route path='/category/:categoryId' element={<CategoryPage/>} />
       </Routes>
       </div>
       </Router>

@@ -7,7 +7,7 @@ import Grid from '@mui/material/Grid';
 const CategoryPage = () => {
   const [funkos, setFunkos] =  useState([])
 
-  let { categoryId} = useParams()
+  let { categoryId } = useParams()
 
   let filtrarFunkos = funkos.filter((funko)=>{
     return funko.categoria === categoryId

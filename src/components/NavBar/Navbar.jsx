@@ -22,9 +22,6 @@ const Navbar = () => {
           <Link className="li" to="/category/HarryPotter">
             Harry Potter
           </Link>
-          <Link className='li' to="/detail">
-            Detail
-          </Link>
             <li>
                 <CartWidget />
             </li>

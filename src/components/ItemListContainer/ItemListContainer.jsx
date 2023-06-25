@@ -12,7 +12,7 @@ const ItemListContainer = ({funko}) => {
       <CardActionArea>
         <CardMedia
           component="img"
-          image={funko.imagen}
+          image={imagen}
           alt="green iguana"
         />
         <CardContent>
